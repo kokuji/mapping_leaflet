@@ -1,1 +1,1 @@
-API_KEY ="pk.eyJ1Ijoia29rdWppIiwiYSI6ImNqd250eDNpZjBxYmI0YWtlcXo2NGY3MGYifQ.mHiDHUVp9bob0Etv2c-Drg"
+const API_KEY ="pk.eyJ1Ijoia29rdWppIiwiYSI6ImNqd250eDNpZjBxYmI0YWtlcXo2NGY3MGYifQ.mHiDHUVp9bob0Etv2c-Drg"
